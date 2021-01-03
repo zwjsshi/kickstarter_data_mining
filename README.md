@@ -1,1 +1,3 @@
-# kisckstarter_data_mining
+# kickstarter_data_mining
+
+## Use Case
